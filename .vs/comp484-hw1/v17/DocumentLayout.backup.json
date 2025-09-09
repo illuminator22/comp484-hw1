@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\syntax.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:syntax.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\structure.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:structure.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\reference.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reference.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\next.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:next.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\links.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:links.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\_css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\images\\W3C_Icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\W3C_Icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\images\\tags.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\tags.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +55,121 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "structure.html",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\structure.html",
+              "RelativeDocumentMoniker": "structure.html",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\structure.html",
+              "RelativeToolTip": "structure.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T05:24:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reference.html",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\reference.html",
+              "RelativeDocumentMoniker": "reference.html",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\reference.html",
+              "RelativeToolTip": "reference.html",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwKAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T05:24:06.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "syntax.html",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\syntax.html",
+              "RelativeDocumentMoniker": "syntax.html",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\syntax.html",
+              "RelativeToolTip": "syntax.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T05:02:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "links.html",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\links.html",
+              "RelativeDocumentMoniker": "links.html",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\links.html",
+              "RelativeToolTip": "links.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T04:58:29.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "next.html",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\next.html",
+              "RelativeDocumentMoniker": "next.html",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\next.html",
+              "RelativeToolTip": "next.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T04:58:26.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T04:52:41.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "W3C_Icon.png - PNG [200x136, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\images\\W3C_Icon.png",
+              "RelativeDocumentMoniker": "images\\W3C_Icon.png",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\images\\W3C_Icon.png - PNG [200x136, 32 bit, PNG]",
+              "RelativeToolTip": "images\\W3C_Icon.png - PNG [200x136, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-09T04:52:08.416Z",
+              "EditorCaption": " - PNG [200x136, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tags.png - PNG [310x375, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\images\\tags.png",
+              "RelativeDocumentMoniker": "images\\tags.png",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\images\\tags.png - PNG [310x375, 24 bit, PNG]",
+              "RelativeToolTip": "images\\tags.png - PNG [310x375, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-09T04:52:07.532Z",
+              "EditorCaption": " - PNG [310x375, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\_css\\styles.css",
+              "RelativeDocumentMoniker": "_css\\styles.css",
+              "ToolTip": "C:\\Users\\ivan\\source\\repos\\illuminator22\\comp484-hw1\\_css\\styles.css",
+              "RelativeToolTip": "_css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-09T04:52:04.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
